@@ -1,7 +1,7 @@
 import re
 import sys
 
-__author__ = 'qhanhuang'
+__author__ = 'hiqhan'
 html_filename = 'Evernote.html'
 links_filename = 'SharedLinks.txt'
 output_filename = 'evernote.txt'
