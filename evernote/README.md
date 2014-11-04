@@ -10,6 +10,7 @@
 
 ###效果###
 最后在Zim里的效果如下：
+![](https://github.com/hiqhan/tools/blob/master/evernote/showninzim.PNG)
 
 ##evernote2zim##
 **evernote2zim.py** is a script for converting shared links from evernote into links in Zim Desktop Wiki. If you are a Zim Desktop Wiki user as well as a Evernote user, you could try this script if you would like to extract the shared links with titles into links format in Zim Desktop Wiki.
@@ -19,3 +20,7 @@
 2. Extract shared posts from evernote into a html file named Evernote.html;
 3. Put SharedLinks.txt, Evernote.html into the directory where evernote2zim.py locates, excute the script;
 4. Then a file called evernote.txt would appear in the same directory, put it into Zim Notebook directory or append it to the specific Notebook file.  
+
+##Result##
+The image following shows result in Zim:
+![](https://github.com/hiqhan/tools/blob/master/evernote/showninzim.PNG)
